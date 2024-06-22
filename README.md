@@ -63,7 +63,7 @@ For example, if you have a CSV file named `example_data.csv`, the script will cr
 
 ### Contact
 
-For any questions or suggestions, please feel free to [open an issue](https://github.com/yourusername/CSV-to-SQL-Database-Loader/issues/new) on GitHub.
+For any questions or suggestions, please feel free to [open an issue](https://github.com/aniket-bera/CSV2SQL-Loader/issues/new) on GitHub.
 
 ---
 
